@@ -127,7 +127,7 @@ public class SendMailActivity extends AppCompatActivity {
             super.onPostExecute(integer);
             progressDialog.dismiss();
 
-            Toast.makeText(getApplicationContext(), "Mail sent to : spn.ahmed92@gmail.com " + "Successful", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Mail sent to : spn.ahmed92@gmail.com ", Toast.LENGTH_SHORT).show();
         }
     }
 

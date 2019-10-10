@@ -3,7 +3,8 @@
 
 
 Android Send Email Without Using Intent
-
+Changes : Less secure app access [Turn on this]
+https://myaccount.google.com/u/0/lesssecureapps?pli=2&pageId=none
 
 ------
 
